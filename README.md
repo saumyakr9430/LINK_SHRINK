@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # LINK_SHRINK
-=======
+
+This project is made by me 
 
 
 
->>>>>>> 4291f85 (New repo for linkshrink project)
+ (New repo for linkshrink project)
